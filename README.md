@@ -1,7 +1,6 @@
 # MULTIPLIER WITH BCD OUTPUT
 ## Overview
- This repository contains the circuit of a multiplier which multiplies two 4-bit numbers and displays the out in BCD form on a 7-segment display.
- The *DOUBLE DABBLE algorithm* was used to convert the 8-bit binary output to BCD form.
+ This repository contains the design of a multiplier circuit that exclusively comprises combinational circuits. It multiplies two 4-bit numbers and displays the output in BCD form on a seven-segment display. The conversion of the 8-bit binary output to BCD format is achieved using the *Double Dabble algorithm*.
  ## DOUBLE DABBLE ALGORITHM
  The double dabble algorithm is a computer science technique that converts binary numbers to binary-coded decimal (BCD) numbers. It's also known as the shift-and-add-3 algorithm.
  - (https://en.wikipedia.org/wiki/Double_dabble#:~:text=In%20computer%20science%2C%20the%20double,the%20expense%20of%20high%20latency.)
